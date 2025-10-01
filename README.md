@@ -1,5 +1,9 @@
 # Predicting Water Portability with a DVC Pipeline
 
+![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-complete-green.svg)
+
 
 This repository contains an end-to-end MLOps project demonstrating how to build a reproducible machine learning pipeline using *DVC (Data Version Control)*. The project focuses on a real-world classification problem: predicting the portability of water based on its quality metrics.
 
