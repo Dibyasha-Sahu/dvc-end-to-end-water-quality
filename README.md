@@ -1,2 +1,3 @@
-# dvc-end-to-end-water-quality
+# dvc-end-to-end-water-quality / Machine-Learning-Prediction-API-with-FastAPI
 MLOps Pipeline for Water Quality: Developed a complete, version-controlled MLOps pipeline using DVC to train and evaluate a model that predicts water portability from quality metrics.
+This project is a complete end-to-end MLOps demonstration. It involves training a machine learning model to solve a specific problem [<-- State the problem, e.g., "predict customer churn" or "classify iris species"] and deploying it as a REST API using FastAPI.The project showcases skills in model training, API development, and data versioning.
